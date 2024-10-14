@@ -10,6 +10,7 @@ This project was built based on [this execise](https://cs50.harvard.edu/x/2024/p
 
 ## Requirements
 Clang
+Make
 
 ## How to run
 After compiling with `make filter`,  run with `./filter -<fst char of type of filter> <path of image> <product image name>`
